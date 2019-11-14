@@ -1,0 +1,32 @@
+{
+  "run": [
+    {
+      "filePath": "/TaskProcessing_Application/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": "5029998",
+        "runnerId": "fiorirunner",
+        "displayName": "App as Fiori Component",
+        "lastRunTimeStamp": 1573716514996
+      }
+    }
+  ]
+}

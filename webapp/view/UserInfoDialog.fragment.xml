@@ -1,0 +1,18 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<SelectDialog
+	    noDataText="{il8n>userInfonoDataText}"
+	    title="{i18n>userInfoTitle}"
+	    rememberSelections="true"
+	    search="handleSearch"
+		confirm="handleClose"
+		cancel="handleClose"
+		items="{path:'/ProductSet'}">
+		
+		<StandardListItem
+		    id="standardListItem"
+		    title="{ProductID}"
+		    description="{Name}"
+		    type="Active"/>
+		
+	</SelectDialog>
+</core:FragmentDefinition>
