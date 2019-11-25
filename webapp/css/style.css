@@ -1,0 +1,28 @@
+/*Add your style classed  here*/
+
+
+/*This style class is for masterview text change*/
+.sapMtextMaxLine {
+    font-family: Impact;
+    font-size: 20px;
+    font-style: normal;
+    color: #000000;
+}
+
+
+/*This is for master view list Number text*/
+.sapMObjectNumberText {
+    font-family: cursive;
+    font-size: 3px;
+    font-style: italic;
+    color: #000000;
+}
+
+
+/*This is for master view list item introduction = instance ID*/
+.sapMObjLIntro {
+    font-family: Times;
+    font-size: 15px;
+    font-style: normal;
+    color: #000000;
+}

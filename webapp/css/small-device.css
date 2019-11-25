@@ -1,0 +1,37 @@
+/*This is for device specific usage*/
+
+@media only screen and (max-width: 480px),
+only screen and (max-device-width: 480px) {
+    /*This is for Master View List Background*/
+    .sapMListBGSolid .sapMLIB {
+        background: #668099;
+    }
+    /*This style class is for masterview text change*/
+    .sapMTextMaxLine {
+        font-family: Impact;
+        font-size: 20px;
+        font-style: normal;
+        color: #000000;
+    }
+    /*This style class is for masterview text TitleName change*/
+    .sapMTextMaxLine {
+        font-family: Impact;
+        font-size: 20px;
+        font-style: normal;
+        color: #000000;
+    }
+    /*This is for master view list item introduction= instance ID*/
+    .sapMObjLIntro {
+        font-family: Times;
+        font-size: 15px;
+        font-style: normal;
+        color: #000000;
+    }
+    /*This is for master view list Number text*/
+    .sapMObjectNumberText {
+        font-family: cursive;
+        font-size: 3px;
+        font-style: italic;
+        color: #000000;
+    }
+}
